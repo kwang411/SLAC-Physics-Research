@@ -1,0 +1,6 @@
+model_checkpoint_path: "toynet-24999"
+all_model_checkpoint_paths: "toynet-24599"
+all_model_checkpoint_paths: "toynet-24699"
+all_model_checkpoint_paths: "toynet-24799"
+all_model_checkpoint_paths: "toynet-24899"
+all_model_checkpoint_paths: "toynet-24999"
